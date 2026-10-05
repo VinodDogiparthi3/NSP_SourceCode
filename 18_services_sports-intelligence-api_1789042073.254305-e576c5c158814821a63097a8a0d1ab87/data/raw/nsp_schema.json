@@ -1,0 +1,206 @@
+[
+  {
+    "name": "ldv_contactaffiliationrecordid",
+    "type": "STRING"
+  },
+  {
+    "name": "registration_date",
+    "type": "DATE"
+  },
+  {
+    "name": "modified_date",
+    "type": "DATE"
+  },
+  {
+    "name": "registration_year",
+    "type": "INTEGER"
+  },
+  {
+    "name": "registration_quarter",
+    "type": "INTEGER"
+  },
+  {
+    "name": "contactid",
+    "type": "STRING"
+  },
+  {
+    "name": "individual_type_code",
+    "type": "FLOAT"
+  },
+  {
+    "name": "individual_type",
+    "type": "STRING"
+  },
+  {
+    "name": "individual_type_ar",
+    "type": "STRING"
+  },
+  {
+    "name": "gender",
+    "type": "STRING"
+  },
+  {
+    "name": "gender_ar",
+    "type": "STRING"
+  },
+  {
+    "name": "age",
+    "type": "FLOAT"
+  },
+  {
+    "name": "athlet_status_code",
+    "type": "INTEGER"
+  },
+  {
+    "name": "status",
+    "type": "STRING"
+  },
+  {
+    "name": "status_ar",
+    "type": "STRING"
+  },
+  {
+    "name": "coach_status_code",
+    "type": "INTEGER"
+  },
+  {
+    "name": "coach_status",
+    "type": "STRING"
+  },
+  {
+    "name": "coach_status_ar",
+    "type": "STRING"
+  },
+  {
+    "name": "nationality",
+    "type": "STRING"
+  },
+  {
+    "name": "nationality_ar",
+    "type": "STRING"
+  },
+  {
+    "name": "ministry_office_en",
+    "type": "STRING"
+  },
+  {
+    "name": "ministry_office_ar",
+    "type": "STRING"
+  },
+  {
+    "name": "federation",
+    "type": "STRING"
+  },
+  {
+    "name": "federation_ar",
+    "type": "STRING"
+  },
+  {
+    "name": "sports_type_en",
+    "type": "STRING"
+  },
+  {
+    "name": "sports_type",
+    "type": "STRING"
+  },
+  {
+    "name": "individual_id",
+    "type": "STRING"
+  },
+  {
+    "name": "degree",
+    "type": "FLOAT"
+  },
+  {
+    "name": "clubacadmeyname_en",
+    "type": "STRING"
+  },
+  {
+    "name": "clubacadmeyname_ar",
+    "type": "STRING"
+  },
+  {
+    "name": "ldv_clubtypecode",
+    "type": "FLOAT"
+  },
+  {
+    "name": "athletetype_en",
+    "type": "STRING"
+  },
+  {
+    "name": "athletetype_ar",
+    "type": "STRING"
+  },
+  {
+    "name": "institutionalclub_en",
+    "type": "STRING"
+  },
+  {
+    "name": "institutionalclub_ar",
+    "type": "STRING"
+  },
+  {
+    "name": "isparalympicsport_en",
+    "type": "STRING"
+  },
+  {
+    "name": "isparalympicsport_ar",
+    "type": "STRING"
+  },
+  {
+    "name": "AgeGroup_en",
+    "type": "STRING"
+  },
+  {
+    "name": "AgeGroup_ar",
+    "type": "STRING"
+  },
+  {
+    "name": "club_maturitycode",
+    "type": "FLOAT"
+  },
+  {
+    "name": "club_maturity_en",
+    "type": "STRING"
+  },
+  {
+    "name": "club_maturity_ar",
+    "type": "STRING"
+  },
+  {
+    "name": "sport_season_id",
+    "type": "STRING"
+  },
+  {
+    "name": "federation_membership_id",
+    "type": "STRING"
+  },
+  {
+    "name": "ldv_sportprofessionalsubtypecode",
+    "type": "FLOAT"
+  },
+  {
+    "name": "ldv_isparalympicsportdiscipline",
+    "type": "BOOLEAN"
+  },
+  {
+    "name": "amature_to_professional",
+    "type": "STRING"
+  },
+  {
+    "name": "AgeGroup_code",
+    "type": "STRING"
+  },
+  {
+    "name": "typecode",
+    "type": "INTEGER"
+  },
+  {
+    "name": "city",
+    "type": "STRING"
+  },
+  {
+    "name": "region",
+    "type": "STRING"
+  }
+]

@@ -1,0 +1,17 @@
+.git
+.gitignore
+.DS_Store
+**/.DS_Store
+**/__pycache__
+**/*.pyc
+backend/.env
+backend/.venv
+frontend
+data/chroma
+data/embedding_models
+data/models
+data/nsp-sopc-real-data.zip
+tmp
+*.zip
+*.pdf
+*.md

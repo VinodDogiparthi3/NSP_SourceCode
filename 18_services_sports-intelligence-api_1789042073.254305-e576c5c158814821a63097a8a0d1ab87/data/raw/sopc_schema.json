@@ -1,0 +1,174 @@
+[
+  {
+    "name": "date",
+    "type": "DATE"
+  },
+  {
+    "name": "year",
+    "type": "INTEGER"
+  },
+  {
+    "name": "max_year",
+    "type": "INTEGER"
+  },
+  {
+    "name": "competition",
+    "type": "STRING"
+  },
+  {
+    "name": "competitionset",
+    "type": "STRING"
+  },
+  {
+    "name": "comp_setdetail",
+    "type": "STRING"
+  },
+  {
+    "name": "sport",
+    "type": "STRING"
+  },
+  {
+    "name": "discipline",
+    "type": "STRING"
+  },
+  {
+    "name": "gender",
+    "type": "STRING"
+  },
+  {
+    "name": "class",
+    "type": "STRING"
+  },
+  {
+    "name": "phase",
+    "type": "STRING"
+  },
+  {
+    "name": "rank",
+    "type": "STRING"
+  },
+  {
+    "name": "Position",
+    "type": "INTEGER"
+  },
+  {
+    "name": "medal",
+    "type": "STRING"
+  },
+  {
+    "name": "team_members",
+    "type": "STRING"
+  },
+  {
+    "name": "person_team",
+    "type": "STRING"
+  },
+  {
+    "name": "person",
+    "type": "STRING"
+  },
+  {
+    "name": "person_first_name",
+    "type": "STRING"
+  },
+  {
+    "name": "person_last_name",
+    "type": "STRING"
+  },
+  {
+    "name": "persongender",
+    "type": "STRING"
+  },
+  {
+    "name": "team",
+    "type": "STRING"
+  },
+  {
+    "name": "nationality",
+    "type": "STRING"
+  },
+  {
+    "name": "dob",
+    "type": "DATE"
+  },
+  {
+    "name": "yob",
+    "type": "STRING"
+  },
+  {
+    "name": "age__days",
+    "type": "STRING"
+  },
+  {
+    "name": "age",
+    "type": "INTEGER"
+  },
+  {
+    "name": "age_group",
+    "type": "STRING"
+  },
+  {
+    "name": "country",
+    "type": "STRING"
+  },
+  {
+    "name": "country_code",
+    "type": "STRING"
+  },
+  {
+    "name": "continent",
+    "type": "STRING"
+  },
+  {
+    "name": "result",
+    "type": "STRING"
+  },
+  {
+    "name": "sec_mtr_pts",
+    "type": "STRING"
+  },
+  {
+    "name": "host_city",
+    "type": "STRING"
+  },
+  {
+    "name": "host_country",
+    "type": "STRING"
+  },
+  {
+    "name": "host_continent",
+    "type": "STRING"
+  },
+  {
+    "name": "participants",
+    "type": "STRING"
+  },
+  {
+    "name": "countries",
+    "type": "STRING"
+  },
+  {
+    "name": "continents",
+    "type": "STRING"
+  },
+  {
+    "name": "world_ranking",
+    "type": "STRING"
+  },
+  {
+    "name": "rank_within_country",
+    "type": "STRING"
+  },
+  {
+    "name": "is_olympic_discipline",
+    "type": "STRING"
+  },
+  {
+    "name": "source_file_type",
+    "type": "STRING"
+  },
+  {
+    "name": "source_file_name",
+    "type": "STRING"
+  }
+]
